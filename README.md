@@ -2,7 +2,7 @@
 
 Reflective DLL loader for Windows x64. Maps a raw DLL from memory without the Windows loader.  
 
-![Uploading image.png…]()
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9f91dc93-8550-4ea3-ae19-5667356f56a8" />
 
 By 28Zaaky — [KHAOS C2](https://github.com/28Zaaky/khaos-c2)
 
